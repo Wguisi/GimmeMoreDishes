@@ -8,3 +8,7 @@ The solution is to create this link, allowing customers to get to know more part
 It is also possible to offer more points in the relationship program if the customer goes through this "shopping circuit".
 
 So lets offer it.
+
+# Important
+
+Had to send a zip file because had SSL issues on internal network
